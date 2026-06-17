@@ -3,6 +3,7 @@
 # Upload this file to the root of the vdtvpn-docs GitHub Pages repo.
 # URL used by the app: https://chung-vpn.github.io/vdtvpn-docs/allow-domains.txt
 
+vipdata88.com
 vpnsieucap.shop
 sieuvpn.indevs.in
 hoa4g.id.vn
