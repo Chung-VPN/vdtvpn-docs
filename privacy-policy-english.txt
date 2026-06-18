@@ -1,0 +1,18 @@
+- Subscription URLs entered by the user.
+- QR code content scanned by the user.
+- Configuration data imported from Clipboard.
+- Connection profiles downloaded from a user-provided subscription URL.
+- Selected server/profile, connection status, latency/ping, and app settings.
+- Android ID or app-scoped device identifier.
+- Device manufacturer, model, product name, Android version, SDK version, and package name.
+- App version and basic technical connection metadata.
+- Importing and managing user-provided connection profiles.
+- Fetching configuration data from subscription URLs provided by the user.
+- Starting, maintaining, and stopping VPN connections using Android VPNService.
+- Showing connection status, speed, latency/ping, and selected profile information.
+- Supporting QR code import, Clipboard import, and subscription URL import.
+- Supporting device-limit protection, account security, fraud prevention, and abuse prevention when required by a user-selected subscription provider.
+- Providing support when the user voluntarily contacts us.
+- Removing profiles or subscription data inside the app where available.
+- Clearing app data in Android settings.
+- Uninstalling the app.
