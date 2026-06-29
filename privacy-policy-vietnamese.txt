@@ -1,0 +1,18 @@
+Chính sách quyền riêng tư VDTVPN
+Ngày hiệu lực: 2026-06-29
+
+VDTVPN là ứng dụng Android network client giúp người dùng nhập, quản lý và sử dụng cấu hình kết nối của chính mình. VDTVPN chỉ sử dụng Android VPNService để tạo kết nối VPN khi người dùng chủ động bắt đầu kết nối.
+
+VDTVPN không cung cấp, bán, cho thuê hoặc phân phối máy chủ VPN, dịch vụ proxy, tài khoản người dùng hoặc cấu hình kết nối cài sẵn.
+
+Thông tin có thể được xử lý gồm link subscription do người dùng nhập, nội dung mã QR do người dùng quét, dữ liệu cấu hình được nhập, máy chủ/profile đã chọn, trạng thái kết nối, tốc độ, ping/độ trễ, cài đặt app, phiên bản app và thông tin kỹ thuật cơ bản của thiết bị như phiên bản Android, model thiết bị và mã nhận dạng trong phạm vi ứng dụng phục vụ chức năng, bảo mật, giới hạn thiết bị và tương thích với nhà cung cấp subscription do người dùng chọn.
+
+Quyền camera chỉ dùng khi người dùng chọn quét mã QR. VDTVPN không ghi video, không lưu ảnh camera và không tải ảnh camera lên máy chủ.
+
+Thông báo và foreground service có thể được dùng để hiển thị trạng thái VPN, máy chủ đang kết nối và tốc độ tải lên/tải xuống khi VPN đang hoạt động.
+
+VDTVPN không thu thập danh bạ, SMS, nhật ký cuộc gọi, ảnh, video, vị trí GPS chính xác, bản ghi microphone, thông tin thẻ thanh toán hoặc giấy tờ định danh. VDTVPN không bán dữ liệu cá nhân và không dùng lưu lượng VPN cho quảng cáo.
+
+Phần lớn dữ liệu app được lưu cục bộ trên thiết bị. Người dùng có thể xoá dữ liệu cục bộ bằng cách xoá profile trong app, xoá dữ liệu ứng dụng trong cài đặt Android hoặc gỡ cài đặt app. Nếu người dùng dùng nhà cung cấp subscription bên thứ ba, yêu cầu xoá tài khoản/dữ liệu phía máy chủ cần gửi tới nhà cung cấp đó.
+
+Liên hệ: magic.street.0404@gmail.com

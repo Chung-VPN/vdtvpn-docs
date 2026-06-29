@@ -1,18 +1,18 @@
-- Subscription URLs entered by the user.
-- QR code content scanned by the user.
-- Configuration data imported from Clipboard.
-- Connection profiles downloaded from a user-provided subscription URL.
-- Selected server/profile, connection status, latency/ping, and app settings.
-- Android ID or app-scoped device identifier.
-- Device manufacturer, model, product name, Android version, SDK version, and package name.
-- App version and basic technical connection metadata.
-- Importing and managing user-provided connection profiles.
-- Fetching configuration data from subscription URLs provided by the user.
-- Starting, maintaining, and stopping VPN connections using Android VPNService.
-- Showing connection status, speed, latency/ping, and selected profile information.
-- Supporting QR code import, Clipboard import, and subscription URL import.
-- Supporting device-limit protection, account security, fraud prevention, and abuse prevention when required by a user-selected subscription provider.
-- Providing support when the user voluntarily contacts us.
-- Removing profiles or subscription data inside the app where available.
-- Clearing app data in Android settings.
-- Uninstalling the app.
+VDTVPN Privacy Policy
+Effective date: 2026-06-29
+
+VDTVPN is an Android network client application that helps users import, manage, and use their own connection profiles. VDTVPN uses Android VPNService only to create a VPN connection when the user starts a connection.
+
+VDTVPN does not provide, sell, rent, or distribute VPN servers, proxy services, user accounts, or preloaded connection profiles.
+
+Information processed may include subscription URLs entered by the user, QR code content scanned by the user, imported configuration data, selected server/profile, connection status, speed, latency/ping, app settings, app version, and basic device technical information such as Android version, device model, and app-scoped device identifiers used for functionality, security, device-limit protection, and compatibility with user-selected subscription providers.
+
+Camera permission is used only when the user chooses to scan a QR code. VDTVPN does not record video, store camera images, or upload camera images.
+
+Notifications and a foreground service may be used to show VPN connection status, the connected server, and upload/download speed while the VPN connection is active.
+
+VDTVPN does not collect contacts, SMS messages, call logs, photos, videos, precise GPS location, microphone recordings, payment card information, or government ID information. VDTVPN does not sell personal data and does not use VPN traffic for advertising.
+
+Most app data is stored locally on the device. Users can delete local data by removing profiles in the app, clearing app data in Android settings, or uninstalling the app. If users use a third-party subscription provider, account deletion and server-side data deletion should be requested from that provider.
+
+Contact: magic.street.0404@gmail.com
