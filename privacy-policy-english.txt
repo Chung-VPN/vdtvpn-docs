@@ -11,6 +11,8 @@ Camera permission is used only when the user chooses to scan a QR code. VDTVPN d
 
 Notifications and a foreground service may be used to show VPN connection status, the connected server, and upload/download speed while the VPN connection is active.
 
+VDTVPN may request the REQUEST_IGNORE_BATTERY_OPTIMIZATIONS permission or open Android battery settings so the user can allow stable background operation. This is used only to help a user-started VPN connection avoid being paused by battery optimization; VDTVPN does not change battery settings unless the user approves it.
+
 VDTVPN does not collect contacts, SMS messages, call logs, photos, videos, precise GPS location, microphone recordings, payment card information, or government ID information. VDTVPN does not sell personal data and does not use VPN traffic for advertising.
 
 Most app data is stored locally on the device. Users can delete local data by removing profiles in the app, clearing app data in Android settings, or uninstalling the app. If users use a third-party subscription provider, account deletion and server-side data deletion should be requested from that provider.

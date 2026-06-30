@@ -11,6 +11,8 @@ Quyền camera chỉ dùng khi người dùng chọn quét mã QR. VDTVPN không
 
 Thông báo và foreground service có thể được dùng để hiển thị trạng thái VPN, máy chủ đang kết nối và tốc độ tải lên/tải xuống khi VPN đang hoạt động.
 
+VDTVPN có thể yêu cầu quyền REQUEST_IGNORE_BATTERY_OPTIMIZATIONS hoặc mở màn hình cài đặt pin của Android để người dùng tự cho phép ứng dụng chạy nền ổn định. Quyền này chỉ dùng để giúp kết nối VPN do người dùng bật không bị hệ thống tiết kiệm pin tạm dừng; VDTVPN không tự thay đổi cài đặt pin nếu người dùng không đồng ý.
+
 VDTVPN không thu thập danh bạ, SMS, nhật ký cuộc gọi, ảnh, video, vị trí GPS chính xác, bản ghi microphone, thông tin thẻ thanh toán hoặc giấy tờ định danh. VDTVPN không bán dữ liệu cá nhân và không dùng lưu lượng VPN cho quảng cáo.
 
 Phần lớn dữ liệu app được lưu cục bộ trên thiết bị. Người dùng có thể xoá dữ liệu cục bộ bằng cách xoá profile trong app, xoá dữ liệu ứng dụng trong cài đặt Android hoặc gỡ cài đặt app. Nếu người dùng dùng nhà cung cấp subscription bên thứ ba, yêu cầu xoá tài khoản/dữ liệu phía máy chủ cần gửi tới nhà cung cấp đó.
